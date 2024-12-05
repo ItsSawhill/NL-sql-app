@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+
+# Docker
+*.log
+.docker/
+
+# Node (if applicable)
+node_modules/
+
+# macOS
+.DS_Store
+
